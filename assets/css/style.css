@@ -65,4 +65,7 @@ html,body{
 .half{
 	width: 50%;
 }
-	
+.grey.darken-4 {
+    background-color: #212121 !important;
+    margin: -7px;
+}
